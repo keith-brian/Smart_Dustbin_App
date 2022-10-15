@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Zuri Bin</string>
+    <string name="logo">logo</string>
+    <string name="welcome">Welcome</string>
+    <string name="info">Zuri Bin is an application that ensures effective Waste management by linking Garbage Collectors to Households. Continue as: </string>
+    <string name="collector">Collector</string>
+    <string name="house">House</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_info">Log In with an existing account!</string>
+    <string name="sign_up_info">Let\'s Create an account for you</string>
+    <string name="cd">imgDesc</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="signup_info">Welcome. Nice to Have You!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="phone">Phone</string>
+    <string name="log_out">LOG OUT</string>
+</resources>

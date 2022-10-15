@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985556779360",
+    "project_id": "zuri-62bee",
+    "storage_bucket": "zuri-62bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985556779360:android:5d66edfb24dd94bc1a1e05",
+        "android_client_info": {
+          "package_name": "com.keith.zuribin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985556779360-50bbihlv1iomm8ctphc9j5vtqrtv18ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keith.zuribin",
+            "certificate_hash": "df0d170f3c761992df09e255270c15a483036ce6"
+          }
+        },
+        {
+          "client_id": "985556779360-ugjnki7fhhp62gs0t1rhukfj0mjc08t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrwXqkBLeMLLzxYk7G8DVZVapVaUkziE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985556779360-ugjnki7fhhp62gs0t1rhukfj0mjc08t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
